@@ -3,7 +3,7 @@
 	<ItemGroup>
 		<PackageReference Include="Autofac" Version="9.3.4" />
 		<PackageReference Include="DryIoc.dll" Version="5.4.3" />
-		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.14" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="11.0.0" />
 	</ItemGroup>
 
 </Project>
